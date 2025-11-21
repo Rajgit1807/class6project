@@ -99,7 +99,7 @@ const Hero: React.FC = () => {
           <Card className="p-0 overflow-hidden rotate-3 hover:rotate-0 transition-transform duration-500 border-4 border-white ring-4 ring-black/5">
             <div className="relative group cursor-pointer" onClick={() => navigate('/resources')}>
               <img 
-                src="https://picsum.photos/800/600?grayscale" 
+                src="assets/images/WhatsApp Image 2025-11-21 at 11.55.53.jpeg" 
                 alt="Project Thumbnail" 
                 className="w-full h-auto object-cover transform group-hover:scale-105 transition-transform duration-700"
               />
@@ -110,7 +110,7 @@ const Hero: React.FC = () => {
               </div>
               <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
                  <h3 className="font-heading font-bold text-2xl">The Making Of</h3>
-                 <p className="text-white/90 text-sm">Duration: 3:45</p>
+                 <p className="text-white/90 text-sm">Duration: 0:22</p>
               </div>
             </div>
           </Card>
